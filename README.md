@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/burhanbilal/Isaret-Dili-AI/assets/98055714/95d854d6-f3be-4a4f-a910-5bbed3ff3bba" alt="Material Bread logo">
+    <img width="250" src="https://github.com/burhanbilal/Isaret-Dili-AI/assets/98055714/95d854d6-f3be-4a4f-a910-5bbed3ff3bba" alt="Material Bread logo">
 </p>
 
 # Bu proje neyi amaçlamaktadır?
@@ -19,5 +19,5 @@ Ayrıca, engelli bireylere iş dünyasında eşit fırsatlar sunmak, hem adaletl
 3. Mobil uygulama versiyonunun eklenmesi sayesinde dışarıda herhangi bir iletişim olduğunda işaret dilinin sözlü ve yazılı çevirisini telefon üzerinden karşı tarafa aktarma işlemi yapılacaktır.
 
 <p align="center">
-    <img width="200" src="https://github.com/burhanbilal/Isaret-Dili-AI/assets/98055714/89a97e49-cdf5-45c7-b71d-78eeff80b9ea" alt="Material Bread logo">
+    <img src="https://github.com/burhanbilal/Isaret-Dili-AI/assets/98055714/89a97e49-cdf5-45c7-b71d-78eeff80b9ea" alt="Material Bread logo">
 </p>
