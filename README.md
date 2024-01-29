@@ -1,6 +1,7 @@
 
 <p align="center">
-    ![isaretdili](https://github.com/burhanbilal/Isaret-Dili-AI/assets/98055714/95d854d6-f3be-4a4f-a910-5bbed3ff3bba)
+
+    ![isaretdili](https://github.com/burhanbilal/Isaret-Dili-AI/assets/98055714/a84b4bc0-3fb8-43a4-9729-4e8bfb373901)
 </p>
 
 # Bu proje neyi amaçlamaktadır?
