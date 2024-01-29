@@ -1,7 +1,8 @@
 
 <p align="center">
-    <img width="200" src="![isaretdili](https://github.com/burhanbilal/Isaret-Dili-AI/assets/98055714/95d854d6-f3be-4a4f-a910-5bbed3ff3bba)" alt="Material Bread logo">
+    ![isaretdili](https://github.com/burhanbilal/Isaret-Dili-AI/assets/98055714/95d854d6-f3be-4a4f-a910-5bbed3ff3bba)
 </p>
+
 # Bu proje neyi amaçlamaktadır?
 Projede gerçekleştirilmek istenen temel amaç, işitme engellilerin günlük yaşamlarında maruz kaldıkları iletişim zorluklarının üstesinden gelmelerine yardımcı olmaktır.
 İşaret dilinin ses ve yazıya çevrilmesi ile engelli bireylerin çevreleriyle daha rahat ve etkili bir şekilde iletişim kurmalarını sağlamak, internet üzerinden yapılan toplantılarda işaret dilini bilmeyen diğer insanlarla ortada olan iletişim bariyerini kaldırmak amaçlanmaktadır. 
